@@ -6,7 +6,7 @@ waveAnalyzer
 >> the simplicity  most useful way for doing, understanding, and getting fun.
 
 
-Easy way for BI, creating charts, dahsboards, add datasource, add sql , snapshots , mathematical analysis of series,
+Easy way for BI, creating charts, dahsboards, add datasource, add sql , snapshots , mathe analysis of series,
 and really great look and feel.
 
 

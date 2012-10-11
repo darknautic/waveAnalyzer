@@ -1,3 +1,6 @@
+import model.X;
+
+
 
 public class runner {
 
@@ -8,6 +11,17 @@ public class runner {
 		// TODO Auto-generated method stub
 
 		System.out.println("waveAnalyzer!");
+		
+		X z = new X();
+		
+		z.set_a("hi");
+		z.set_b("friend");
+		
+		System.out.println(z.get_b());
+		
+		
+		
+		
 	}
 
 }
